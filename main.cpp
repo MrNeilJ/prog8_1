@@ -14,5 +14,14 @@ int main() {
     cin     >> hours[3];
     cin     >> hours[4];
     cin     >> hours[5];
+
+    // Display the contents of the array
+    cout << " " << hours[0];
+    cout << " " << hours[1];
+    cout << " " << hours[2];
+    cout << " " << hours[3];
+    cout << " " << hours[4];
+    cout << " " << hours[5] << endl;
+
     return 0;
 }
