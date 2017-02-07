@@ -1,4 +1,4 @@
-// This program stores employee work hours in an int arry
+// This program stores employee work hours in an int array
 #include <iostream>
 using namespace std;
 
